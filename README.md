@@ -1,6 +1,7 @@
+# Rodrigo Yaedu Pinesso RA: 22014201-2
+-------------------------------------
 # Crud-Front
 To Do Funcional 
-# Rodrigo Yaedu Pinesso RA: 22014201-2
 --------------------------------------
 # Como rodar a API
 Baixar as dependências
@@ -13,3 +14,7 @@ Baixar as dependências
 # Portas
 Caso haja algum problema para iniciar por conta das portas, deve-se alterar no:
 - server.ts e /pages/index.js
+# Funcionamento
+Para ver a aplicação
+- Esperar o servidor rodar
+- Clique com o shift + botão direito do mouse no http://localhost:5000
