@@ -2,7 +2,7 @@
 To Do Funcional 
 # Rodrigo Yaedu Pinesso RA: 22014201-2
 --------------------------------------
-# Como rodar a APi 
+# Como rodar a API
 Baixar as dependências
 - npm i
 - npm i -D typescript ts-node @types/node @types/express
