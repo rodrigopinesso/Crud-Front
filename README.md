@@ -15,4 +15,4 @@ Caso haja algum problema para iniciar por conta das portas, deve-se alterar no:
 # Funcionamento
 Para ver a aplicação
 - Esperar o servidor rodar
-- E no terminal, clique com o shift + botão direito do mouse no http://localhost: 
+- E no terminal, clique com o ctrl + botão esquerdo do mouse no http://localhost: 
