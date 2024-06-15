@@ -1,8 +1,6 @@
 # Rodrigo Yaedu Pinesso RA: 22014201-2
--------------------------------------
 # Crud-Front
 To Do Funcional 
---------------------------------------
 # Como rodar a API
 Baixar as dependências
 - npm i
